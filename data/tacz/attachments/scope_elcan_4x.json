@@ -1,0 +1,7 @@
+{
+  "name": "tacz.attachment.scope_elcan_4x.name",
+  "display": "tacz:scope_elcan_4x_display",
+  "data": "tacz:attachment_data/scope_elcan_4x",
+  "type": "scope",
+  "sort": 100
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tacz.attachment.scope_lpvo_1_6.name",
+  "display": "tacz:scope_lpvo_1_6_display",
+  "data": "tacz:attachment_data/scope_lpvo_1_6",
+  "type": "scope",
+  "sort": 100
+}

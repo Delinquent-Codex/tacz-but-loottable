@@ -1,0 +1,6 @@
+{
+  "name": "tacz.attachment.muzzle_silencer_vulture.name",
+  "display": "tacz:muzzle_silencer_vulture_display",
+  "data": "tacz:attachment_data/muzzle_silencer_vulture",
+  "type": "muzzle"
+}

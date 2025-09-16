@@ -1,0 +1,6 @@
+{
+  "name": "tacz.attachment.muzzle_silencer_mirage.name",
+  "display": "tacz:muzzle_silencer_mirage_display",
+  "data": "tacz:attachment_data/muzzle_silencer_mirage",
+  "type": "muzzle"
+}

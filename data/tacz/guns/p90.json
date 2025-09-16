@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.p90.name",
+  "display": "tacz:p90_display",
+  "data": "tacz:gun_data/p90",
+  "tooltip": "tacz.gun.p90.desc",
+  "type": "smg"
+}

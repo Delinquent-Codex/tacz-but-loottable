@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.vector45.name",
+  "display": "tacz:vector45_display",
+  "data": "tacz:gun_data/vector45",
+  "tooltip": "tacz.gun.vector45.desc",
+  "type": "smg"
+}

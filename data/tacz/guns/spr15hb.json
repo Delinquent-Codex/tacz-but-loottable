@@ -1,0 +1,8 @@
+{
+  "name": "tacz.gun.spr15hb.name",
+  "display": "tacz:spr15hb_display",
+  "data": "tacz:gun_data/spr15hb",
+  "type": "rifle",
+  "tooltip": "tacz.gun.spr15hb.desc",
+  "sort": 4
+}
