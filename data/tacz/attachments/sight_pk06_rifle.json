@@ -1,0 +1,8 @@
+{
+  "hidden": false,
+  "name": "tacz.attachment.sight_pk06_rifle.name",
+  "display": "tacz:sight_pk06_rifle_display",
+  "data": "tacz:attachment_data/sight_pk06_rifle",
+  "type": "scope",
+  "sort": 10
+}

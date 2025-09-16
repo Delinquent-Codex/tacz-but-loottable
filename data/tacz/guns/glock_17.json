@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.glock_17.name",
+  "display": "tacz:glock_17_display",
+  "data": "tacz:gun_data/glock_17",
+  "tooltip": "tacz.gun.glock_17.desc",
+  "type": "pistol"
+}

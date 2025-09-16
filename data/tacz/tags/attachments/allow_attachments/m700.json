@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#tacz:scope",
+    "#tacz:sniper_extended_mag",
+    "#tacz:muzzle",
+    "#tacz:ammo_mod_no_he",
+    "#tacz:scope_lowsight"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.rpg7.name",
+  "display": "tacz:rpg7_display",
+  "data": "tacz:gun_data/rpg7",
+  "tooltip": "tacz.gun.rpg7.desc",
+  "type": "rpg"
+}

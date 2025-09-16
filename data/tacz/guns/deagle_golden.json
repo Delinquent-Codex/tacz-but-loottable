@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.deagle_golden.name",
+  "display": "tacz:deagle_golden_display",
+  "data": "tacz:gun_data/deagle_golden",
+  "tooltip": "tacz.gun.deagle_golden.desc",
+  "type": "pistol"
+}

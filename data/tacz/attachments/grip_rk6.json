@@ -1,0 +1,7 @@
+{
+  "name": "tacz.attachment.grip_rk6.name",
+  "display": "tacz:grip_rk6_display",
+  "data": "tacz:attachment_data/grip_rk6",
+  "type": "grip",
+  "sort": 1
+}

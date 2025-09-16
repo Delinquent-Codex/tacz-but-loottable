@@ -1,0 +1,8 @@
+{
+  "name": "tacz.gun.scar_h.name",
+  "display": "tacz:scar_h_display",
+  "data": "tacz:gun_data/scar_h",
+  "tooltip": "tacz.gun.scar_h.desc",
+  "type": "rifle",
+  "sort": 4
+}
