@@ -1,0 +1,15 @@
+{
+  "gun_id": "tacz:type_81",
+  "fire_mode": "auto",
+  "mag_current": 30,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:762x39",
+    "min": 60,
+    "max": 120
+  },
+  "base_attachments": {
+    "AttachmentMUZZLE": "tacz:muzzle_brake_cyclone_d2",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_2"
+  }
+}

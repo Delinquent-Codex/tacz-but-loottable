@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:deagle",
+  "fire_mode": "semi",
+  "mag_current": 7,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:50ae",
+    "min": 14,
+    "max": 28
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_t1",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_ptilopsis",
+    "AttachmentEXTENDED_MAG": "tacz:light_extended_mag_3",
+    "AttachmentLASER": "tacz:laser_compact"
+  }
+}

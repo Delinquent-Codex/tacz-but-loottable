@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:vector45",
+  "fire_mode": "auto",
+  "mag_current": 20,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:45acp",
+    "min": 40,
+    "max": 80
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_552",
+    "AttachmentMUZZLE": "tacz:muzzle_compensator_trident",
+    "AttachmentEXTENDED_MAG": "tacz:light_extended_mag_3",
+    "AttachmentSTOCK": "tacz:oem_stock_tactical",
+    "AttachmentGRIP": "tacz:grip_vertical_talon",
+    "AttachmentLASER": "tacz:laser_nightstick"
+  }
+}

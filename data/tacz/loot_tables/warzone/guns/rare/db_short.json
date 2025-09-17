@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:sequence",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "tacz:modern_kinetic_gun",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 1
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{GunId:\"tacz:db_short\",GunFireMode:\"burst\",GunCurrentAmmoCount:2,HasBulletInBarrel:1b,WarzoneRarity:\"rare\",display:{Name:'{\"text\":\"DB SHORT | RARE\",\"color\":\"aqua\",\"italic\":false}',Lore:['{\"text\":\"Warzone Drop\",\"color\":\"aqua\",\"italic\":false}','{\"text\":\"Tier: Rare\",\"color\":\"aqua\",\"italic\":false}','{\"text\":\"Ammo: 4-8 12g\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Attachments:\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" - Magazine: Ammo Mod I\",\"color\":\"dark_gray\",\"italic\":false}','{\"text\":\" - Stock: Oem Stock Tactical\",\"color\":\"dark_gray\",\"italic\":false}']},AttachmentEXTENDED_MAG:{id:\"tacz:attachment\",Count:1b,tag:{AttachmentId:\"tacz:ammo_mod_i\"}},AttachmentSTOCK:{id:\"tacz:attachment\",Count:1b,tag:{AttachmentId:\"tacz:oem_stock_tactical\"}}}"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "tacz:ammo",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{AmmoId:\"tacz:12g\"}"
+                },
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 8
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:emerald",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 4
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Cash Bundle\",\"color\":\"green\",\"italic\":false}',Lore:['{\"text\":\"$500\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Spend at buy stations\",\"color\":\"dark_green\",\"italic\":false}']}}"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:iron_ingot",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
+                }
+              ],
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 2
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Armor Plate\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Restores armor\",\"color\":\"gray\",\"italic\":false}']}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

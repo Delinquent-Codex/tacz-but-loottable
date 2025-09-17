@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/common/type_81",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/rare/type_81",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/legendary/type_81",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

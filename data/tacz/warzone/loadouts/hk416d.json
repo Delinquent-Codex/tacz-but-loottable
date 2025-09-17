@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:hk416d",
+  "fire_mode": "auto",
+  "mag_current": 30,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:556x45",
+    "min": 60,
+    "max": 120
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_hamr",
+    "AttachmentMUZZLE": "tacz:muzzle_brake_cthulhu",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_3",
+    "AttachmentSTOCK": "tacz:stock_tactical_ar",
+    "AttachmentGRIP": "tacz:grip_cqr",
+    "AttachmentLASER": "tacz:laser_lopro"
+  }
+}

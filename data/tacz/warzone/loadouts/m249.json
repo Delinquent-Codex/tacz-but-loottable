@@ -1,0 +1,18 @@
+{
+  "gun_id": "tacz:m249",
+  "fire_mode": "auto",
+  "mag_current": 75,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:556x45",
+    "min": 150,
+    "max": 300
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_elcan_4x",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_knight_qd",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_3",
+    "AttachmentGRIP": "tacz:grip_vertical_military",
+    "AttachmentLASER": "tacz:laser_lopro"
+  }
+}

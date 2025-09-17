@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:m16a1",
+  "fire_mode": "auto",
+  "mag_current": 20,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:556x45",
+    "min": 40,
+    "max": 80
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_retro_2x",
+    "AttachmentMUZZLE": "tacz:muzzle_brake_pioneer",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_1",
+    "AttachmentBAYONET": "tacz:bayonet_m9"
+  }
+}

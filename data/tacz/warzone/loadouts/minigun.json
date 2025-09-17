@@ -1,0 +1,12 @@
+{
+  "gun_id": "tacz:minigun",
+  "fire_mode": "auto",
+  "mag_current": 32,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:308",
+    "min": 64,
+    "max": 128
+  },
+  "base_attachments": {}
+}

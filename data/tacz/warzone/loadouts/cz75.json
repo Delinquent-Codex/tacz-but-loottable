@@ -1,0 +1,16 @@
+{
+  "gun_id": "tacz:cz75",
+  "fire_mode": "auto",
+  "mag_current": 16,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:9mm",
+    "min": 32,
+    "max": 64
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_fastfire_pistol",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_ptilopsis",
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_fmj"
+  }
+}

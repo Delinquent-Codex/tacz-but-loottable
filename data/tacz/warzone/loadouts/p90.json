@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:p90",
+  "fire_mode": "auto",
+  "mag_current": 50,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:57x28",
+    "min": 100,
+    "max": 200
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_p90",
+    "AttachmentMUZZLE": "tacz:muzzle_brake_pioneer",
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_fmj",
+    "AttachmentLASER": "tacz:laser_nightstick"
+  }
+}

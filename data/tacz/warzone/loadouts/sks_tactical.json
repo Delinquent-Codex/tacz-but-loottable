@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:sks_tactical",
+  "fire_mode": "semi",
+  "mag_current": 10,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:762x39",
+    "min": 20,
+    "max": 40
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_srs_02",
+    "AttachmentMUZZLE": "tacz:muzzle_brake_pioneer",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_2",
+    "AttachmentSTOCK": "tacz:stock_militech_b5",
+    "AttachmentGRIP": "tacz:grip_osovets_black",
+    "AttachmentLASER": "tacz:laser_lopro"
+  }
+}

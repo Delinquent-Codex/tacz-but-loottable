@@ -1,0 +1,18 @@
+{
+  "gun_id": "tacz:ump45",
+  "fire_mode": "auto",
+  "mag_current": 25,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:45acp",
+    "min": 50,
+    "max": 100
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_pk06_rifle",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_knight_qd",
+    "AttachmentEXTENDED_MAG": "tacz:light_extended_mag_2",
+    "AttachmentGRIP": "tacz:grip_vertical_military",
+    "AttachmentLASER": "tacz:laser_compact"
+  }
+}

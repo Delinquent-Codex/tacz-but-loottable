@@ -1,0 +1,8 @@
+{
+  "name": "tacz.gun.mk14.name",
+  "display": "tacz:mk14_display",
+  "data": "tacz:gun_data/mk14",
+  "tooltip": "tacz.gun.mk14.desc",
+  "type": "rifle",
+  "sort": 4
+}

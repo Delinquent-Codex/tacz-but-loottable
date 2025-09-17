@@ -1,0 +1,8 @@
+{
+  "name": "tacz.gun.hk_g3.name",
+  "display": "tacz:hk_g3_display",
+  "data": "tacz:gun_data/hk_g3",
+  "tooltip": "tacz.gun.hk_g3.desc",
+  "type": "rifle",
+  "sort": 3
+}

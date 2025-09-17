@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:rpk",
+  "fire_mode": "auto",
+  "mag_current": 40,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:762x39",
+    "min": 80,
+    "max": 160
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_acog_ta31",
+    "AttachmentMUZZLE": "tacz:muzzle_compensator_trident",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_3",
+    "AttachmentSTOCK": "tacz:oem_stock_heavy"
+  }
+}

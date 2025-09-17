@@ -1,0 +1,12 @@
+{
+  "gun_id": "tacz:m320",
+  "fire_mode": "semi",
+  "mag_current": 1,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:40mm",
+    "min": 2,
+    "max": 4
+  },
+  "base_attachments": {}
+}

@@ -1,0 +1,18 @@
+{
+  "gun_id": "tacz:spr15hb",
+  "fire_mode": "semi",
+  "mag_current": 15,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:556x45",
+    "min": 30,
+    "max": 60
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_t2",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_phantom_s1",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_3",
+    "AttachmentSTOCK": "tacz:stock_tactical_ar",
+    "AttachmentGRIP": "tacz:grip_cobra"
+  }
+}

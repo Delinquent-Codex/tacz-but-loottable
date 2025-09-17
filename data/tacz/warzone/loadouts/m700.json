@@ -1,0 +1,16 @@
+{
+  "gun_id": "tacz:m700",
+  "fire_mode": "semi",
+  "mag_current": 5,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:30_06",
+    "min": 10,
+    "max": 20
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_vudu",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_ursus",
+    "AttachmentEXTENDED_MAG": "tacz:sniper_extended_mag_1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:mk14",
+  "fire_mode": "semi",
+  "mag_current": 10,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:308",
+    "min": 20,
+    "max": 40
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_lpvo_1_6",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_knight_qd",
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_i",
+    "AttachmentSTOCK": "tacz:stock_militech_b5",
+    "AttachmentGRIP": "tacz:grip_se_5",
+    "AttachmentLASER": "tacz:laser_lopro"
+  }
+}

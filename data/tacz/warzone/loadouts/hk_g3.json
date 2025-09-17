@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:hk_g3",
+  "fire_mode": "semi",
+  "mag_current": 20,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:308",
+    "min": 40,
+    "max": 80
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_vudu",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_ursus",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_2",
+    "AttachmentSTOCK": "tacz:oem_stock_heavy",
+    "AttachmentGRIP": "tacz:grip_se_5",
+    "AttachmentLASER": "tacz:laser_peq15"
+  }
+}

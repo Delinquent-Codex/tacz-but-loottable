@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/common/ai_awp",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/rare/ai_awp",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/legendary/ai_awp",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

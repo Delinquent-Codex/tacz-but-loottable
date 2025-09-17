@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:sequence",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "tacz:modern_kinetic_gun",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 1
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{GunId:\"tacz:m1911\",GunFireMode:\"semi\",GunCurrentAmmoCount:7,HasBulletInBarrel:1b,WarzoneRarity:\"rare\",display:{Name:'{\"text\":\"M-1911 | RARE\",\"color\":\"aqua\",\"italic\":false}',Lore:['{\"text\":\"Warzone Drop\",\"color\":\"aqua\",\"italic\":false}','{\"text\":\"Tier: Rare\",\"color\":\"aqua\",\"italic\":false}','{\"text\":\"Ammo: 14-28 45acp\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Attachments:\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" - Muzzle: Muzzle Silencer Ptilopsis\",\"color\":\"dark_gray\",\"italic\":false}','{\"text\":\" - Magazine: Light Extended Mag 1\",\"color\":\"dark_gray\",\"italic\":false}']},AttachmentMUZZLE:{id:\"tacz:attachment\",Count:1b,tag:{AttachmentId:\"tacz:muzzle_silencer_ptilopsis\"}},AttachmentEXTENDED_MAG:{id:\"tacz:attachment\",Count:1b,tag:{AttachmentId:\"tacz:light_extended_mag_1\"}}}"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "tacz:ammo",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{AmmoId:\"tacz:45acp\"}"
+                },
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 14,
+                    "max": 28
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:emerald",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 4
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Cash Bundle\",\"color\":\"green\",\"italic\":false}',Lore:['{\"text\":\"$500\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Spend at buy stations\",\"color\":\"dark_green\",\"italic\":false}']}}"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:iron_ingot",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
+                }
+              ],
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 2
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Armor Plate\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Restores armor\",\"color\":\"gray\",\"italic\":false}']}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gun_id": "tacz:springfield1873",
+  "fire_mode": "semi",
+  "mag_current": 1,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:45_70",
+    "min": 2,
+    "max": 4
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_1873_6x",
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_fmj"
+  }
+}

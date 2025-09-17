@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.cz75.name",
+  "display": "tacz:cz75_display",
+  "data": "tacz:gun_data/cz75",
+  "tooltip": "tacz.gun.cz75.desc",
+  "type": "pistol"
+}

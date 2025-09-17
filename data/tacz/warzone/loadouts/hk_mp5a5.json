@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:hk_mp5a5",
+  "fire_mode": "auto",
+  "mag_current": 30,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:9mm",
+    "min": 60,
+    "max": 120
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_552",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_phantom_s1",
+    "AttachmentEXTENDED_MAG": "tacz:light_extended_mag_3",
+    "AttachmentSTOCK": "tacz:stock_carbon_bone_c5",
+    "AttachmentGRIP": "tacz:grip_rk1_b25u",
+    "AttachmentLASER": "tacz:laser_nightstick"
+  }
+}

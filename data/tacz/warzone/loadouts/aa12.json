@@ -1,0 +1,16 @@
+{
+  "gun_id": "tacz:aa12",
+  "fire_mode": "semi",
+  "mag_current": 8,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:12g",
+    "min": 16,
+    "max": 32
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_uh1",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_1",
+    "AttachmentGRIP": "tacz:grip_vertical_ranger"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:deagle_golden",
+  "fire_mode": "semi",
+  "mag_current": 9,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:357mag",
+    "min": 18,
+    "max": 36
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_contender",
+    "AttachmentMUZZLE": "tacz:deagle_golden_long_barrel",
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_fmj",
+    "AttachmentLASER": "tacz:laser_nightstick"
+  }
+}

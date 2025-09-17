@@ -1,0 +1,20 @@
+{
+  "gun_id": "tacz:m16a4",
+  "fire_mode": "burst",
+  "mag_current": 30,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:556x45",
+    "min": 60,
+    "max": 120
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_acro_rifle",
+    "AttachmentMUZZLE": "tacz:muzzle_compensator_trident",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_2",
+    "AttachmentSTOCK": "tacz:stock_m4ss",
+    "AttachmentGRIP": "tacz:grip_td",
+    "AttachmentLASER": "tacz:laser_peq15",
+    "AttachmentBAYONET": "tacz:bayonet_m9"
+  }
+}

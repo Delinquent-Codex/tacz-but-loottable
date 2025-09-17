@@ -1,0 +1,15 @@
+{
+  "gun_id": "tacz:db_short",
+  "fire_mode": "burst",
+  "mag_current": 2,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:12g",
+    "min": 4,
+    "max": 8
+  },
+  "base_attachments": {
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_i",
+    "AttachmentSTOCK": "tacz:oem_stock_tactical"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gun_id": "tacz:qbz_95",
+  "fire_mode": "auto",
+  "mag_current": 30,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:58x42",
+    "min": 60,
+    "max": 120
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_srs_02",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_phantom_s1",
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_3",
+    "AttachmentGRIP": "tacz:grip_rk6",
+    "AttachmentLASER": "tacz:laser_peq15"
+  }
+}

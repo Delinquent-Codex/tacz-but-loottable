@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:p320",
+  "fire_mode": "semi",
+  "mag_current": 12,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:45acp",
+    "min": 24,
+    "max": 48
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_acro_pistol",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_mirage",
+    "AttachmentEXTENDED_MAG": "tacz:light_extended_mag_2",
+    "AttachmentLASER": "tacz:laser_compact"
+  }
+}

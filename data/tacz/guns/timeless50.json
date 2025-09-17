@@ -1,0 +1,7 @@
+{
+  "name": "tacz.gun.timeless50.name",
+  "display": "tacz:timeless50_display",
+  "data": "tacz:gun_data/timeless50",
+  "tooltip": "tacz.gun.timeless50.desc",
+  "type": "pistol"
+}

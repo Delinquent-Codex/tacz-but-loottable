@@ -1,0 +1,17 @@
+{
+  "gun_id": "tacz:timeless50",
+  "fire_mode": "semi",
+  "mag_current": 8,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:50ae",
+    "min": 16,
+    "max": 32
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_rmr_dot",
+    "AttachmentMUZZLE": "tacz:muzzle_brake_timeless50",
+    "AttachmentEXTENDED_MAG": "tacz:light_extended_mag_3",
+    "AttachmentLASER": "tacz:laser_nightstick"
+  }
+}

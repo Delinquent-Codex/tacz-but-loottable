@@ -1,0 +1,16 @@
+{
+  "gun_id": "tacz:m107",
+  "fire_mode": "semi",
+  "mag_current": 10,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:50bmg",
+    "min": 20,
+    "max": 40
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:scope_standard_8x",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_vulture",
+    "AttachmentEXTENDED_MAG": "tacz:sniper_extended_mag_3"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:sequence",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "tacz:modern_kinetic_gun",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 1
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{GunId:\"tacz:type_81\",GunFireMode:\"auto\",GunCurrentAmmoCount:30,HasBulletInBarrel:1b,WarzoneRarity:\"rare\",display:{Name:'{\"text\":\"TYPE -81 | RARE\",\"color\":\"aqua\",\"italic\":false}',Lore:['{\"text\":\"Warzone Drop\",\"color\":\"aqua\",\"italic\":false}','{\"text\":\"Tier: Rare\",\"color\":\"aqua\",\"italic\":false}','{\"text\":\"Ammo: 60-120 762x39\",\"color\":\"white\",\"italic\":false}','{\"text\":\"Attachments:\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" - Muzzle: Muzzle Brake Cyclone D2\",\"color\":\"dark_gray\",\"italic\":false}','{\"text\":\" - Magazine: Extended Mag 2\",\"color\":\"dark_gray\",\"italic\":false}']},AttachmentMUZZLE:{id:\"tacz:attachment\",Count:1b,tag:{AttachmentId:\"tacz:muzzle_brake_cyclone_d2\"}},AttachmentEXTENDED_MAG:{id:\"tacz:attachment\",Count:1b,tag:{AttachmentId:\"tacz:extended_mag_2\"}}}"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "tacz:ammo",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{AmmoId:\"tacz:762x39\"}"
+                },
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 60,
+                    "max": 120
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:emerald",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 4
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Cash Bundle\",\"color\":\"green\",\"italic\":false}',Lore:['{\"text\":\"$500\",\"color\":\"green\",\"italic\":false}','{\"text\":\"Spend at buy stations\",\"color\":\"dark_green\",\"italic\":false}']}}"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:iron_ingot",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
+                }
+              ],
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 2
+                  }
+                },
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{display:{Name:'{\"text\":\"Armor Plate\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Restores armor\",\"color\":\"gray\",\"italic\":false}']}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

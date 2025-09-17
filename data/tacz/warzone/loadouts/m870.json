@@ -1,0 +1,14 @@
+{
+  "gun_id": "tacz:m870",
+  "fire_mode": "semi",
+  "mag_current": 5,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:12g",
+    "min": 10,
+    "max": 20
+  },
+  "base_attachments": {
+    "AttachmentEXTENDED_MAG": "tacz:extended_mag_2"
+  }
+}

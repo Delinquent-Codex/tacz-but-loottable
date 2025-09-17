@@ -1,0 +1,221 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/aa12",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/ai_awp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/ak47",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/aug",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/b93r",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/cz75",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/db_long",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/db_short",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/deagle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/deagle_golden",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/g36k",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/glock_17",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/hk416d",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/hk_g3",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/hk_mp5a5",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m107",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m16a1",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m16a4",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m1911",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m249",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m320",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m4a1",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m700",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m870",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/m95",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/minigun",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/mk14",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/p320",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/p90",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/qbz_95",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/rpg7",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/rpk",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/scar_h",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/scar_l",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/sks_tactical",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/spr15hb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/springfield1873",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/timeless50",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/type_81",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/ump45",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/uzi",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz:warzone/guns/vector45",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

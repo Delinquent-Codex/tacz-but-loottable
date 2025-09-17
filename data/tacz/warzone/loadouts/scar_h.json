@@ -1,0 +1,19 @@
+{
+  "gun_id": "tacz:scar_h",
+  "fire_mode": "semi",
+  "mag_current": 20,
+  "has_bullet": true,
+  "ammo": {
+    "id": "tacz:308",
+    "min": 40,
+    "max": 80
+  },
+  "base_attachments": {
+    "AttachmentSCOPE": "tacz:sight_uh1",
+    "AttachmentMUZZLE": "tacz:muzzle_silencer_knight_qd",
+    "AttachmentEXTENDED_MAG": "tacz:ammo_mod_hp",
+    "AttachmentSTOCK": "tacz:stock_militech_b5",
+    "AttachmentGRIP": "tacz:grip_vertical_talon",
+    "AttachmentLASER": "tacz:laser_lopro"
+  }
+}
